@@ -4,3 +4,4 @@ namespace: flux-system
 resources:
 - metallb.yaml
 - load-balancer.yaml
+- nfs-provisioner.yaml
