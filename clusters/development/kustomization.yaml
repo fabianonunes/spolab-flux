@@ -4,3 +4,4 @@ namespace: flux-system
 resources:
 - sources.yaml
 - dapr.yaml
+- metallb.yaml
