@@ -4,8 +4,3 @@ namespace: flux-system
 resources:
   - sources.yaml
   - dapr.yaml
-  - traefik.yaml
-  # - kafka.yaml
-  - nats.yaml
-  - mongodb.yaml
-  - tempo.yaml
