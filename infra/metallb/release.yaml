@@ -12,7 +12,7 @@ spec:
       sourceRef:
         name: metallb
         kind: HelmRepository
-        namespace: flux-system
+        namespace: metallb
   interval: 1m
   install:
     crds: CreateReplace
